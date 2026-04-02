@@ -21,7 +21,7 @@ $2.3M sales data across 5009 orders and 793 customers.
 ![Page 3](Page3_Product_Performance.png)
 
 ## Power BI Dashboard
-[View Live Dashboard](https://app.powerbi.com/links/goWtfGlV_y?ctid=7f53d9f5-c01e-4d5c-b5f9-611df8e81fcf&pbi_source=linkShare)
+[View Live Dashboard](https://app.powerbi.com/links/XZdMFmG14G?ctid=7f53d9f5-c01e-4d5c-b5f9-611df8e81fcf&pbi_source=linkShare)
 
 ## Key Insights
 - Technology drives highest revenue at $836K
