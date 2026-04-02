@@ -1,6 +1,4 @@
-﻿Drop Database Sales_AnalyticsDB
-
-CREATE DATABASE Sales_AnalyticsDB
+﻿CREATE DATABASE Sales_AnalyticsDB
 GO
 USE Sales_AnalyticsDB
 
